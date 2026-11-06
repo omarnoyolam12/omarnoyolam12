@@ -21,7 +21,7 @@
 - 🧱 Construyo backends con **Node.js y NestJS**, aplicando **DDD (Domain-Driven Design)**.
 - 🎨 Tengo formación en **diseño UX/UI**, así que cuido tanto la interfaz como la lógica.
 - 🌱 Actualmente aprendiendo: **Flutter**, **Angular**.
-- 📍 TU-UBICACIÓN Ecatepec, México
+- 📍 Ecatepec, México
 
 ## 🛠️ Stack tecnológico
 
